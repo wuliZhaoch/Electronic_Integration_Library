@@ -43,7 +43,7 @@
 !*.SchDoc
 # Altium Schematic Document
 
-*.SchDot
+# *.SchDot
 # Altium Schematic Template
 
 !*.SchLib
